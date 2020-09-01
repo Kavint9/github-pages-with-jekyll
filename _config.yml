@@ -1,6 +1,7 @@
 title: Pythonic code
 author: Kavin Thiruvalluvan
 email: kavinthiru93@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Implementation of pythonic code based on the LinkedIn Learning course
 
